@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\bin\Debug\netcoreapp2.0\CharCount.deps.json
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\bin\Debug\netcoreapp2.0\CharCount.runtimeconfig.json
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\bin\Debug\netcoreapp2.0\CharCount.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\bin\Debug\netcoreapp2.0\CharCount.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\bin\Debug\netcoreapp2.0\CharCount.pdb
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\obj\Debug\netcoreapp2.0\CharCount.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\obj\Debug\netcoreapp2.0\CharCount.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\obj\Debug\netcoreapp2.0\CharCount.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\obj\Debug\netcoreapp2.0\CharCount.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\CharCount\obj\Debug\netcoreapp2.0\CharCount.pdb

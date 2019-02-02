@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\bin\Debug\netcoreapp2.0\MatrixSquares.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\bin\Debug\netcoreapp2.0\MatrixSquares.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\bin\Debug\netcoreapp2.0\MatrixSquares.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\bin\Debug\netcoreapp2.0\MatrixSquares.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\bin\Debug\netcoreapp2.0\MatrixSquares.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\obj\Debug\netcoreapp2.0\MatrixSquares.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\obj\Debug\netcoreapp2.0\MatrixSquares.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\obj\Debug\netcoreapp2.0\MatrixSquares.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\obj\Debug\netcoreapp2.0\MatrixSquares.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\obj\Debug\netcoreapp2.0\MatrixSquares.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MatrixSquares\obj\Debug\netcoreapp2.0\MatrixSquares.pdb

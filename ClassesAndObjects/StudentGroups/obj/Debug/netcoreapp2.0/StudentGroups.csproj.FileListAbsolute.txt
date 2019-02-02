@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\bin\Debug\netcoreapp2.0\StudentGroups.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\bin\Debug\netcoreapp2.0\StudentGroups.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\bin\Debug\netcoreapp2.0\StudentGroups.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\bin\Debug\netcoreapp2.0\StudentGroups.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\bin\Debug\netcoreapp2.0\StudentGroups.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\obj\Debug\netcoreapp2.0\StudentGroups.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\obj\Debug\netcoreapp2.0\StudentGroups.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\obj\Debug\netcoreapp2.0\StudentGroups.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\obj\Debug\netcoreapp2.0\StudentGroups.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\obj\Debug\netcoreapp2.0\StudentGroups.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentGroups\obj\Debug\netcoreapp2.0\StudentGroups.pdb

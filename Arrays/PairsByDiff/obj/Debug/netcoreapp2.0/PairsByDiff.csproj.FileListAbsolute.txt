@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\bin\Debug\netcoreapp2.0\PairsByDiff.deps.json
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\bin\Debug\netcoreapp2.0\PairsByDiff.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\bin\Debug\netcoreapp2.0\PairsByDiff.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\bin\Debug\netcoreapp2.0\PairsByDiff.dll
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\bin\Debug\netcoreapp2.0\PairsByDiff.pdb
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\obj\Debug\netcoreapp2.0\PairsByDiff.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\obj\Debug\netcoreapp2.0\PairsByDiff.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\obj\Debug\netcoreapp2.0\PairsByDiff.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\obj\Debug\netcoreapp2.0\PairsByDiff.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\obj\Debug\netcoreapp2.0\PairsByDiff.dll
+C:\Users\l_pet\source\repos\Arrays\PairsByDiff\obj\Debug\netcoreapp2.0\PairsByDiff.pdb

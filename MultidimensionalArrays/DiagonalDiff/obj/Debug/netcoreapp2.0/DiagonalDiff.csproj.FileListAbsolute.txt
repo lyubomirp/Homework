@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\bin\Debug\netcoreapp2.0\DiagonalDiff.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\bin\Debug\netcoreapp2.0\DiagonalDiff.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\bin\Debug\netcoreapp2.0\DiagonalDiff.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\bin\Debug\netcoreapp2.0\DiagonalDiff.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\bin\Debug\netcoreapp2.0\DiagonalDiff.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\obj\Debug\netcoreapp2.0\DiagonalDiff.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\obj\Debug\netcoreapp2.0\DiagonalDiff.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\obj\Debug\netcoreapp2.0\DiagonalDiff.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\obj\Debug\netcoreapp2.0\DiagonalDiff.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\obj\Debug\netcoreapp2.0\DiagonalDiff.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\DiagonalDiff\obj\Debug\netcoreapp2.0\DiagonalDiff.csprojAssemblyReference.cache

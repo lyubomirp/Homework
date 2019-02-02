@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.dll
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\bin\Debug\netcoreapp2.0\CarSalesman.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.dll
+C:\Users\l_pet\source\repos\DefiningClasses\CarSalesman\obj\Debug\netcoreapp2.0\CarSalesman.pdb

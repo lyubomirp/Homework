@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Dictionary\Logs\bin\Debug\netcoreapp2.0\Logs.deps.json
+C:\Users\l_pet\source\repos\Dictionary\Logs\bin\Debug\netcoreapp2.0\Logs.runtimeconfig.json
+C:\Users\l_pet\source\repos\Dictionary\Logs\bin\Debug\netcoreapp2.0\Logs.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Dictionary\Logs\bin\Debug\netcoreapp2.0\Logs.dll
+C:\Users\l_pet\source\repos\Dictionary\Logs\bin\Debug\netcoreapp2.0\Logs.pdb
+C:\Users\l_pet\source\repos\Dictionary\Logs\obj\Debug\netcoreapp2.0\Logs.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Dictionary\Logs\obj\Debug\netcoreapp2.0\Logs.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Dictionary\Logs\obj\Debug\netcoreapp2.0\Logs.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Dictionary\Logs\obj\Debug\netcoreapp2.0\Logs.dll
+C:\Users\l_pet\source\repos\Dictionary\Logs\obj\Debug\netcoreapp2.0\Logs.pdb
+C:\Users\l_pet\source\repos\Dictionary\Logs\obj\Debug\netcoreapp2.0\Logs.csprojAssemblyReference.cache

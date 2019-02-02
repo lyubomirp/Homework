@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\bin\Debug\netcoreapp2.0\Legos.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\bin\Debug\netcoreapp2.0\Legos.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\bin\Debug\netcoreapp2.0\Legos.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\bin\Debug\netcoreapp2.0\Legos.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\bin\Debug\netcoreapp2.0\Legos.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\obj\Debug\netcoreapp2.0\Legos.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\obj\Debug\netcoreapp2.0\Legos.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\obj\Debug\netcoreapp2.0\Legos.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\obj\Debug\netcoreapp2.0\Legos.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\obj\Debug\netcoreapp2.0\Legos.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\Legos\obj\Debug\netcoreapp2.0\Legos.csprojAssemblyReference.cache

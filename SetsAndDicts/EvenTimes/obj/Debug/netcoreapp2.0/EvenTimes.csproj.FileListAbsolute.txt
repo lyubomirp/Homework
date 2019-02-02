@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.deps.json
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.runtimeconfig.json
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\bin\Debug\netcoreapp2.0\EvenTimes.pdb
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\EvenTimes\obj\Debug\netcoreapp2.0\EvenTimes.pdb

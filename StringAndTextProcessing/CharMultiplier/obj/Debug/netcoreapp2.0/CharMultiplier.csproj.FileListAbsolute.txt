@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\bin\Debug\netcoreapp2.0\CharMultiplier.deps.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\bin\Debug\netcoreapp2.0\CharMultiplier.runtimeconfig.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\bin\Debug\netcoreapp2.0\CharMultiplier.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\bin\Debug\netcoreapp2.0\CharMultiplier.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\bin\Debug\netcoreapp2.0\CharMultiplier.pdb
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\obj\Debug\netcoreapp2.0\CharMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\obj\Debug\netcoreapp2.0\CharMultiplier.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\obj\Debug\netcoreapp2.0\CharMultiplier.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\obj\Debug\netcoreapp2.0\CharMultiplier.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\CharMultiplier\obj\Debug\netcoreapp2.0\CharMultiplier.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Methods\LongestLine\bin\Debug\netcoreapp2.0\LongestLine.deps.json
+C:\Users\l_pet\source\repos\Methods\LongestLine\bin\Debug\netcoreapp2.0\LongestLine.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\LongestLine\bin\Debug\netcoreapp2.0\LongestLine.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\LongestLine\bin\Debug\netcoreapp2.0\LongestLine.dll
+C:\Users\l_pet\source\repos\Methods\LongestLine\bin\Debug\netcoreapp2.0\LongestLine.pdb
+C:\Users\l_pet\source\repos\Methods\LongestLine\obj\Debug\netcoreapp2.0\LongestLine.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\Methods\LongestLine\obj\Debug\netcoreapp2.0\LongestLine.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\LongestLine\obj\Debug\netcoreapp2.0\LongestLine.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\LongestLine\obj\Debug\netcoreapp2.0\LongestLine.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\LongestLine\obj\Debug\netcoreapp2.0\LongestLine.dll
+C:\Users\l_pet\source\repos\Methods\LongestLine\obj\Debug\netcoreapp2.0\LongestLine.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\bin\Debug\netcoreapp2.0\RubickMatrix.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\bin\Debug\netcoreapp2.0\RubickMatrix.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\bin\Debug\netcoreapp2.0\RubickMatrix.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\bin\Debug\netcoreapp2.0\RubickMatrix.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\bin\Debug\netcoreapp2.0\RubickMatrix.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\obj\Debug\netcoreapp2.0\RubickMatrix.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\obj\Debug\netcoreapp2.0\RubickMatrix.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\obj\Debug\netcoreapp2.0\RubickMatrix.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\obj\Debug\netcoreapp2.0\RubickMatrix.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\obj\Debug\netcoreapp2.0\RubickMatrix.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RubickMatrix\obj\Debug\netcoreapp2.0\RubickMatrix.csprojAssemblyReference.cache

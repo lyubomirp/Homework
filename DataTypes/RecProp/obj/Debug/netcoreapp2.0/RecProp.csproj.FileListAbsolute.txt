@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DataTypes\RecProp\bin\Debug\netcoreapp2.0\RecProp.deps.json
+C:\Users\l_pet\source\repos\DataTypes\RecProp\bin\Debug\netcoreapp2.0\RecProp.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\RecProp\bin\Debug\netcoreapp2.0\RecProp.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\RecProp\bin\Debug\netcoreapp2.0\RecProp.dll
+C:\Users\l_pet\source\repos\DataTypes\RecProp\bin\Debug\netcoreapp2.0\RecProp.pdb
+C:\Users\l_pet\source\repos\DataTypes\RecProp\obj\Debug\netcoreapp2.0\RecProp.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\DataTypes\RecProp\obj\Debug\netcoreapp2.0\RecProp.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\RecProp\obj\Debug\netcoreapp2.0\RecProp.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\RecProp\obj\Debug\netcoreapp2.0\RecProp.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\RecProp\obj\Debug\netcoreapp2.0\RecProp.dll
+C:\Users\l_pet\source\repos\DataTypes\RecProp\obj\Debug\netcoreapp2.0\RecProp.pdb

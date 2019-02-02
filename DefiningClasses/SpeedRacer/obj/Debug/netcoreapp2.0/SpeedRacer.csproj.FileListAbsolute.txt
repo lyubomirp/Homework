@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\bin\Debug\netcoreapp2.0\SpeedRacer.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\bin\Debug\netcoreapp2.0\SpeedRacer.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\bin\Debug\netcoreapp2.0\SpeedRacer.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\bin\Debug\netcoreapp2.0\SpeedRacer.dll
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\bin\Debug\netcoreapp2.0\SpeedRacer.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\obj\Debug\netcoreapp2.0\SpeedRacer.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\obj\Debug\netcoreapp2.0\SpeedRacer.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\obj\Debug\netcoreapp2.0\SpeedRacer.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\obj\Debug\netcoreapp2.0\SpeedRacer.dll
+C:\Users\l_pet\source\repos\DefiningClasses\SpeedRacer\obj\Debug\netcoreapp2.0\SpeedRacer.pdb

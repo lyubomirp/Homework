@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\bin\Debug\netcoreapp2.0\ReverseChars.deps.json
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\bin\Debug\netcoreapp2.0\ReverseChars.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\bin\Debug\netcoreapp2.0\ReverseChars.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\bin\Debug\netcoreapp2.0\ReverseChars.dll
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\bin\Debug\netcoreapp2.0\ReverseChars.pdb
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\obj\Debug\netcoreapp2.0\ReverseChars.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\obj\Debug\netcoreapp2.0\ReverseChars.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\obj\Debug\netcoreapp2.0\ReverseChars.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\obj\Debug\netcoreapp2.0\ReverseChars.dll
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\obj\Debug\netcoreapp2.0\ReverseChars.pdb
+C:\Users\l_pet\source\repos\DataTypes\ReverseChars\obj\Debug\netcoreapp2.0\ReverseChars.csprojResolveAssemblyReference.cache

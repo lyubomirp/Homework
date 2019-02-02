@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\bin\Debug\netcoreapp2.0\SeqOfElements.deps.json
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\bin\Debug\netcoreapp2.0\SeqOfElements.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\bin\Debug\netcoreapp2.0\SeqOfElements.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\bin\Debug\netcoreapp2.0\SeqOfElements.dll
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\bin\Debug\netcoreapp2.0\SeqOfElements.pdb
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\obj\Debug\netcoreapp2.0\SeqOfElements.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\obj\Debug\netcoreapp2.0\SeqOfElements.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\obj\Debug\netcoreapp2.0\SeqOfElements.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\obj\Debug\netcoreapp2.0\SeqOfElements.dll
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\obj\Debug\netcoreapp2.0\SeqOfElements.pdb
+C:\Users\l_pet\source\repos\Arrays\SeqOfElements\obj\Debug\netcoreapp2.0\SeqOfElements.csprojAssemblyReference.cache

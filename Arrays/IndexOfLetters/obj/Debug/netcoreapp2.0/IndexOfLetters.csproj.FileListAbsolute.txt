@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.deps.json
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.dll
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\bin\Debug\netcoreapp2.0\IndexOfLetters.pdb
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.dll
+C:\Users\l_pet\source\repos\Arrays\IndexOfLetters\obj\Debug\netcoreapp2.0\IndexOfLetters.pdb

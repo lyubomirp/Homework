@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\bin\Debug\netcoreapp2.0\SortEmails.deps.json
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\bin\Debug\netcoreapp2.0\SortEmails.runtimeconfig.json
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\bin\Debug\netcoreapp2.0\SortEmails.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\bin\Debug\netcoreapp2.0\SortEmails.dll
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\bin\Debug\netcoreapp2.0\SortEmails.pdb
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\obj\Debug\netcoreapp2.0\SortEmails.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\obj\Debug\netcoreapp2.0\SortEmails.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\obj\Debug\netcoreapp2.0\SortEmails.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\obj\Debug\netcoreapp2.0\SortEmails.dll
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\obj\Debug\netcoreapp2.0\SortEmails.pdb
+C:\Users\l_pet\source\repos\Dictionary\SortEmails\obj\Debug\netcoreapp2.0\SortEmails.csprojAssemblyReference.cache

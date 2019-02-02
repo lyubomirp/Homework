@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\bin\Debug\netcoreapp2.0\partOfASCII.deps.json
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\bin\Debug\netcoreapp2.0\partOfASCII.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\bin\Debug\netcoreapp2.0\partOfASCII.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\bin\Debug\netcoreapp2.0\partOfASCII.dll
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\bin\Debug\netcoreapp2.0\partOfASCII.pdb
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\obj\Debug\netcoreapp2.0\partOfASCII.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\obj\Debug\netcoreapp2.0\partOfASCII.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\obj\Debug\netcoreapp2.0\partOfASCII.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\obj\Debug\netcoreapp2.0\partOfASCII.dll
+C:\Users\l_pet\source\repos\DataTypes\partOfASCII\obj\Debug\netcoreapp2.0\partOfASCII.pdb

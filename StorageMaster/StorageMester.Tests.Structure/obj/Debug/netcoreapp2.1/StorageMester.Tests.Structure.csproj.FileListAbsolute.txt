@@ -1,0 +1,17 @@
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.deps.json
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.json
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.dll
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.csproj.CopyComplete
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.dll
+C:\Users\l_pet\source\repos\StorageMaster\StorageMester.Tests.Structure\obj\Debug\netcoreapp2.1\StorageMester.Tests.Structure.pdb

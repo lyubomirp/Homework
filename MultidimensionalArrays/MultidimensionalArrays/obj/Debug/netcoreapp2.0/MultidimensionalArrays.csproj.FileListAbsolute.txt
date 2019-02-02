@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp2.0\MultidimensionalArrays.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp2.0\MultidimensionalArrays.pdb

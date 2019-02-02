@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\DataTypes\StringObj\bin\Debug\netcoreapp2.0\StringObj.deps.json
+C:\Users\l_pet\source\repos\DataTypes\StringObj\bin\Debug\netcoreapp2.0\StringObj.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\StringObj\bin\Debug\netcoreapp2.0\StringObj.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\StringObj\bin\Debug\netcoreapp2.0\StringObj.dll
+C:\Users\l_pet\source\repos\DataTypes\StringObj\bin\Debug\netcoreapp2.0\StringObj.pdb
+C:\Users\l_pet\source\repos\DataTypes\StringObj\obj\Debug\netcoreapp2.0\StringObj.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\StringObj\obj\Debug\netcoreapp2.0\StringObj.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\StringObj\obj\Debug\netcoreapp2.0\StringObj.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\StringObj\obj\Debug\netcoreapp2.0\StringObj.dll
+C:\Users\l_pet\source\repos\DataTypes\StringObj\obj\Debug\netcoreapp2.0\StringObj.pdb

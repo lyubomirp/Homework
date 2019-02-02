@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\PersonClass.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\PersonClass.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\PersonClass.dll
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\PersonClass.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\PersonClass.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\PersonClass.dll
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\PersonClass.pdb

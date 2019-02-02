@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\netcoreapp2.0\StringAndTextProcessing.deps.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\netcoreapp2.0\StringAndTextProcessing.runtimeconfig.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\netcoreapp2.0\StringAndTextProcessing.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\netcoreapp2.0\StringAndTextProcessing.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\bin\Debug\netcoreapp2.0\StringAndTextProcessing.pdb
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\netcoreapp2.0\StringAndTextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\netcoreapp2.0\StringAndTextProcessing.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\netcoreapp2.0\StringAndTextProcessing.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\netcoreapp2.0\StringAndTextProcessing.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\StringAndTextProcessing\obj\Debug\netcoreapp2.0\StringAndTextProcessing.pdb

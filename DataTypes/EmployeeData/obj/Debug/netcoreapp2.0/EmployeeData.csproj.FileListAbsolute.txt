@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.deps.json
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.dll
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\bin\Debug\netcoreapp2.0\EmployeeData.pdb
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.dll
+C:\Users\l_pet\source\repos\DataTypes\EmployeeData\obj\Debug\netcoreapp2.0\EmployeeData.pdb

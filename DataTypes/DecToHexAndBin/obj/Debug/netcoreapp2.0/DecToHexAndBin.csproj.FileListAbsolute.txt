@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\bin\Debug\netcoreapp2.0\DecToHexAndBin.deps.json
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\bin\Debug\netcoreapp2.0\DecToHexAndBin.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\bin\Debug\netcoreapp2.0\DecToHexAndBin.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\bin\Debug\netcoreapp2.0\DecToHexAndBin.dll
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\bin\Debug\netcoreapp2.0\DecToHexAndBin.pdb
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\obj\Debug\netcoreapp2.0\DecToHexAndBin.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\obj\Debug\netcoreapp2.0\DecToHexAndBin.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\obj\Debug\netcoreapp2.0\DecToHexAndBin.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\obj\Debug\netcoreapp2.0\DecToHexAndBin.dll
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\obj\Debug\netcoreapp2.0\DecToHexAndBin.pdb
+C:\Users\l_pet\source\repos\DataTypes\DecToHexAndBin\obj\Debug\netcoreapp2.0\DecToHexAndBin.csprojResolveAssemblyReference.cache

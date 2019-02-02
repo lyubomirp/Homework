@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp2.0\Vehicles.deps.json
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp2.0\Vehicles.runtimeconfig.json
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp2.0\Vehicles.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp2.0\Vehicles.dll
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\bin\Debug\netcoreapp2.0\Vehicles.pdb
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp2.0\Vehicles.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp2.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp2.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp2.0\Vehicles.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp2.0\Vehicles.dll
+C:\Users\l_pet\source\repos\PolyMorphism\PolyMorphism\obj\Debug\netcoreapp2.0\Vehicles.pdb

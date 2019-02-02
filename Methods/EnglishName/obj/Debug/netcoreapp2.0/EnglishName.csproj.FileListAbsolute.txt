@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Methods\EnglishName\bin\Debug\netcoreapp2.0\EnglishName.deps.json
+C:\Users\l_pet\source\repos\Methods\EnglishName\bin\Debug\netcoreapp2.0\EnglishName.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\EnglishName\bin\Debug\netcoreapp2.0\EnglishName.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\EnglishName\bin\Debug\netcoreapp2.0\EnglishName.dll
+C:\Users\l_pet\source\repos\Methods\EnglishName\bin\Debug\netcoreapp2.0\EnglishName.pdb
+C:\Users\l_pet\source\repos\Methods\EnglishName\obj\Debug\netcoreapp2.0\EnglishName.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\EnglishName\obj\Debug\netcoreapp2.0\EnglishName.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\EnglishName\obj\Debug\netcoreapp2.0\EnglishName.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\EnglishName\obj\Debug\netcoreapp2.0\EnglishName.dll
+C:\Users\l_pet\source\repos\Methods\EnglishName\obj\Debug\netcoreapp2.0\EnglishName.pdb

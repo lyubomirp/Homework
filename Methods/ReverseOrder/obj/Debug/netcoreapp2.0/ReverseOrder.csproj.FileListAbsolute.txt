@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\bin\Debug\netcoreapp2.0\ReverseOrder.deps.json
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\bin\Debug\netcoreapp2.0\ReverseOrder.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\bin\Debug\netcoreapp2.0\ReverseOrder.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\bin\Debug\netcoreapp2.0\ReverseOrder.dll
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\bin\Debug\netcoreapp2.0\ReverseOrder.pdb
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\obj\Debug\netcoreapp2.0\ReverseOrder.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\obj\Debug\netcoreapp2.0\ReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\obj\Debug\netcoreapp2.0\ReverseOrder.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\obj\Debug\netcoreapp2.0\ReverseOrder.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\obj\Debug\netcoreapp2.0\ReverseOrder.dll
+C:\Users\l_pet\source\repos\Methods\ReverseOrder\obj\Debug\netcoreapp2.0\ReverseOrder.pdb

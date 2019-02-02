@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\RegEX\RegEX\bin\Debug\netcoreapp2.0\ExactEmails.deps.json
+C:\Users\l_pet\source\repos\RegEX\RegEX\bin\Debug\netcoreapp2.0\ExactEmails.runtimeconfig.json
+C:\Users\l_pet\source\repos\RegEX\RegEX\bin\Debug\netcoreapp2.0\ExactEmails.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\RegEX\RegEX\bin\Debug\netcoreapp2.0\ExactEmails.dll
+C:\Users\l_pet\source\repos\RegEX\RegEX\bin\Debug\netcoreapp2.0\ExactEmails.pdb
+C:\Users\l_pet\source\repos\RegEX\RegEX\obj\Debug\netcoreapp2.0\ExactEmails.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\RegEX\RegEX\obj\Debug\netcoreapp2.0\ExactEmails.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\RegEX\RegEX\obj\Debug\netcoreapp2.0\ExactEmails.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\RegEX\RegEX\obj\Debug\netcoreapp2.0\ExactEmails.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\RegEX\RegEX\obj\Debug\netcoreapp2.0\ExactEmails.dll
+C:\Users\l_pet\source\repos\RegEX\RegEX\obj\Debug\netcoreapp2.0\ExactEmails.pdb

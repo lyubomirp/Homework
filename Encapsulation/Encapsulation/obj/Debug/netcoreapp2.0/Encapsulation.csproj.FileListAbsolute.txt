@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.deps.json
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.runtimeconfig.json
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.dll
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\bin\Debug\netcoreapp2.0\Encapsulation.pdb
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.dll
+C:\Users\l_pet\source\repos\Encapsulation\Encapsulation\obj\Debug\netcoreapp2.0\Encapsulation.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.deps.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp2.1\IteratorsAndComparators.pdb
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.dll
+C:\Users\l_pet\source\repos\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp2.1\IteratorsAndComparators.pdb

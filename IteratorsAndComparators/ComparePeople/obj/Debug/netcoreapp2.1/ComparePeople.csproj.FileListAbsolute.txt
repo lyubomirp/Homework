@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\bin\Debug\netcoreapp2.1\ComparePeople.deps.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\bin\Debug\netcoreapp2.1\ComparePeople.runtimeconfig.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\bin\Debug\netcoreapp2.1\ComparePeople.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\bin\Debug\netcoreapp2.1\ComparePeople.dll
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\bin\Debug\netcoreapp2.1\ComparePeople.pdb
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\obj\Debug\netcoreapp2.1\ComparePeople.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\obj\Debug\netcoreapp2.1\ComparePeople.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\obj\Debug\netcoreapp2.1\ComparePeople.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\obj\Debug\netcoreapp2.1\ComparePeople.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\obj\Debug\netcoreapp2.1\ComparePeople.dll
+C:\Users\l_pet\source\repos\IteratorsAndComparators\ComparePeople\obj\Debug\netcoreapp2.1\ComparePeople.pdb

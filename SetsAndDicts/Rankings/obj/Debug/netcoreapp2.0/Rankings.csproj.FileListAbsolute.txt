@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\bin\Debug\netcoreapp2.0\Rankings.deps.json
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\bin\Debug\netcoreapp2.0\Rankings.runtimeconfig.json
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\bin\Debug\netcoreapp2.0\Rankings.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\bin\Debug\netcoreapp2.0\Rankings.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\bin\Debug\netcoreapp2.0\Rankings.pdb
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\obj\Debug\netcoreapp2.0\Rankings.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\obj\Debug\netcoreapp2.0\Rankings.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\obj\Debug\netcoreapp2.0\Rankings.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\obj\Debug\netcoreapp2.0\Rankings.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\obj\Debug\netcoreapp2.0\Rankings.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\Rankings\obj\Debug\netcoreapp2.0\Rankings.pdb

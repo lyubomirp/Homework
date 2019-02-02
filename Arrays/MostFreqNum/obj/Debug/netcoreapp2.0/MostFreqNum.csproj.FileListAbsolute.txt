@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\bin\Debug\netcoreapp2.0\MostFreqNum.deps.json
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\bin\Debug\netcoreapp2.0\MostFreqNum.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\bin\Debug\netcoreapp2.0\MostFreqNum.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\bin\Debug\netcoreapp2.0\MostFreqNum.dll
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\bin\Debug\netcoreapp2.0\MostFreqNum.pdb
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\obj\Debug\netcoreapp2.0\MostFreqNum.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\obj\Debug\netcoreapp2.0\MostFreqNum.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\obj\Debug\netcoreapp2.0\MostFreqNum.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\obj\Debug\netcoreapp2.0\MostFreqNum.dll
+C:\Users\l_pet\source\repos\Arrays\MostFreqNum\obj\Debug\netcoreapp2.0\MostFreqNum.pdb

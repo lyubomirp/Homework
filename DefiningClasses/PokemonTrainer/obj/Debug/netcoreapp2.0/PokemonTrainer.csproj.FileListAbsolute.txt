@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.dll
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\bin\Debug\netcoreapp2.0\PokemonTrainer.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.dll
+C:\Users\l_pet\source\repos\DefiningClasses\PokemonTrainer\obj\Debug\netcoreapp2.0\PokemonTrainer.pdb

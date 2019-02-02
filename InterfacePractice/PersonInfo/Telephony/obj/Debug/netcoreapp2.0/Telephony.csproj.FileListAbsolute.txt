@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\bin\Debug\netcoreapp2.0\Telephony.deps.json
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\bin\Debug\netcoreapp2.0\Telephony.runtimeconfig.json
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\bin\Debug\netcoreapp2.0\Telephony.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\bin\Debug\netcoreapp2.0\Telephony.dll
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\bin\Debug\netcoreapp2.0\Telephony.pdb
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\obj\Debug\netcoreapp2.0\Telephony.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\obj\Debug\netcoreapp2.0\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\obj\Debug\netcoreapp2.0\Telephony.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\obj\Debug\netcoreapp2.0\Telephony.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\obj\Debug\netcoreapp2.0\Telephony.dll
+C:\Users\l_pet\source\repos\InterfacePractice\PersonInfo\Telephony\obj\Debug\netcoreapp2.0\Telephony.pdb

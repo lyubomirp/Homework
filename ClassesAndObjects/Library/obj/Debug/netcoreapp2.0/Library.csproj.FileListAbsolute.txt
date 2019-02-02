@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\obj\Debug\netcoreapp2.0\Library.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\obj\Debug\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\obj\Debug\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\bin\Debug\netcoreapp2.0\Library.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\bin\Debug\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\bin\Debug\netcoreapp2.0\Library.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\bin\Debug\netcoreapp2.0\Library.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\obj\Debug\netcoreapp2.0\Library.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\Library\obj\Debug\netcoreapp2.0\Library.pdb

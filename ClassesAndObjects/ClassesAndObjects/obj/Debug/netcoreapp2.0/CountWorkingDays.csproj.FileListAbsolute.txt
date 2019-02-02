@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\CountWorkingDays.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\CountWorkingDays.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\CountWorkingDays.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\CountWorkingDays.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\bin\Debug\netcoreapp2.0\CountWorkingDays.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\CountWorkingDays.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\CountWorkingDays.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\CountWorkingDays.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\CountWorkingDays.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\ClassesAndObjects\obj\Debug\netcoreapp2.0\CountWorkingDays.pdb

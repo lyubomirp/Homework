@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.dll
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\bin\Debug\netcoreapp2.0\RawData.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.dll
+C:\Users\l_pet\source\repos\DefiningClasses\RawData\obj\Debug\netcoreapp2.0\RawData.pdb

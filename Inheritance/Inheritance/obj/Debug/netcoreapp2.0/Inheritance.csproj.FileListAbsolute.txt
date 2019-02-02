@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.deps.json
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.json
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.dll
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\bin\Debug\netcoreapp2.0\Inheritance.pdb
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.dll
+C:\Users\l_pet\source\repos\Inheritance\Inheritance\obj\Debug\netcoreapp2.0\Inheritance.pdb

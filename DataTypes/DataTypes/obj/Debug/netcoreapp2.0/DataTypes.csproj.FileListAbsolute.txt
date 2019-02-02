@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.deps.json
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.dll
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\bin\Debug\netcoreapp2.0\DataTypes.pdb
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.dll
+C:\Users\l_pet\source\repos\DataTypes\DataTypes\obj\Debug\netcoreapp2.0\DataTypes.pdb

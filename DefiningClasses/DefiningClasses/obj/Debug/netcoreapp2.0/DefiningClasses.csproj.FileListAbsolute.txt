@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.dll
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\bin\Debug\netcoreapp2.0\DefiningClasses.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.dll
+C:\Users\l_pet\source\repos\DefiningClasses\DefiningClasses\obj\Debug\netcoreapp2.0\DefiningClasses.pdb

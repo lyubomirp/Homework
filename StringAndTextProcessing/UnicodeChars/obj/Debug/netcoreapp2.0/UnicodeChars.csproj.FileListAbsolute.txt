@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\bin\Debug\netcoreapp2.0\UnicodeChars.deps.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\bin\Debug\netcoreapp2.0\UnicodeChars.runtimeconfig.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\bin\Debug\netcoreapp2.0\UnicodeChars.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\bin\Debug\netcoreapp2.0\UnicodeChars.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\bin\Debug\netcoreapp2.0\UnicodeChars.pdb
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\obj\Debug\netcoreapp2.0\UnicodeChars.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\obj\Debug\netcoreapp2.0\UnicodeChars.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\obj\Debug\netcoreapp2.0\UnicodeChars.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\obj\Debug\netcoreapp2.0\UnicodeChars.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\obj\Debug\netcoreapp2.0\UnicodeChars.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\UnicodeChars\obj\Debug\netcoreapp2.0\UnicodeChars.pdb

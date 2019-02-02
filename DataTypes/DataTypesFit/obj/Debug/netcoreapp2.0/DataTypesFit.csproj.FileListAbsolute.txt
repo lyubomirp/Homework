@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\bin\Debug\netcoreapp2.0\DataTypesFit.deps.json
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\bin\Debug\netcoreapp2.0\DataTypesFit.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\bin\Debug\netcoreapp2.0\DataTypesFit.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\bin\Debug\netcoreapp2.0\DataTypesFit.dll
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\bin\Debug\netcoreapp2.0\DataTypesFit.pdb
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\obj\Debug\netcoreapp2.0\DataTypesFit.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\obj\Debug\netcoreapp2.0\DataTypesFit.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\obj\Debug\netcoreapp2.0\DataTypesFit.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\obj\Debug\netcoreapp2.0\DataTypesFit.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\obj\Debug\netcoreapp2.0\DataTypesFit.dll
+C:\Users\l_pet\source\repos\DataTypes\DataTypesFit\obj\Debug\netcoreapp2.0\DataTypesFit.pdb

@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\bin\Debug\netcoreapp2.0\SeqIncreasingElems.deps.json
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\bin\Debug\netcoreapp2.0\SeqIncreasingElems.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\bin\Debug\netcoreapp2.0\SeqIncreasingElems.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\bin\Debug\netcoreapp2.0\SeqIncreasingElems.dll
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\bin\Debug\netcoreapp2.0\SeqIncreasingElems.pdb
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\obj\Debug\netcoreapp2.0\SeqIncreasingElems.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\obj\Debug\netcoreapp2.0\SeqIncreasingElems.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\obj\Debug\netcoreapp2.0\SeqIncreasingElems.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\obj\Debug\netcoreapp2.0\SeqIncreasingElems.dll
+C:\Users\l_pet\source\repos\Arrays\SeqIncreasingElems\obj\Debug\netcoreapp2.0\SeqIncreasingElems.pdb

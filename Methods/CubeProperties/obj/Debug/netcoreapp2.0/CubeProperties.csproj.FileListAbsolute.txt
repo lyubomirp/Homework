@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Methods\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.deps.json
+C:\Users\l_pet\source\repos\Methods\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.dll
+C:\Users\l_pet\source\repos\Methods\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.pdb
+C:\Users\l_pet\source\repos\Methods\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.dll
+C:\Users\l_pet\source\repos\Methods\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.pdb

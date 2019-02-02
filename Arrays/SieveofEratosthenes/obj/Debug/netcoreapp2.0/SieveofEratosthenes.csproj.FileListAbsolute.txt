@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\bin\Debug\netcoreapp2.0\SieveofEratosthenes.deps.json
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\bin\Debug\netcoreapp2.0\SieveofEratosthenes.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\bin\Debug\netcoreapp2.0\SieveofEratosthenes.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\bin\Debug\netcoreapp2.0\SieveofEratosthenes.dll
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\bin\Debug\netcoreapp2.0\SieveofEratosthenes.pdb
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\obj\Debug\netcoreapp2.0\SieveofEratosthenes.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\obj\Debug\netcoreapp2.0\SieveofEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\obj\Debug\netcoreapp2.0\SieveofEratosthenes.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\obj\Debug\netcoreapp2.0\SieveofEratosthenes.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\obj\Debug\netcoreapp2.0\SieveofEratosthenes.dll
+C:\Users\l_pet\source\repos\Arrays\SieveofEratosthenes\obj\Debug\netcoreapp2.0\SieveofEratosthenes.pdb

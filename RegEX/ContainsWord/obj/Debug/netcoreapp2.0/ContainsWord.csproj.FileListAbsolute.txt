@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\bin\Debug\netcoreapp2.0\ContainsWord.deps.json
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\bin\Debug\netcoreapp2.0\ContainsWord.runtimeconfig.json
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\bin\Debug\netcoreapp2.0\ContainsWord.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\bin\Debug\netcoreapp2.0\ContainsWord.dll
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\bin\Debug\netcoreapp2.0\ContainsWord.pdb
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\obj\Debug\netcoreapp2.0\ContainsWord.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\obj\Debug\netcoreapp2.0\ContainsWord.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\obj\Debug\netcoreapp2.0\ContainsWord.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\obj\Debug\netcoreapp2.0\ContainsWord.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\obj\Debug\netcoreapp2.0\ContainsWord.dll
+C:\Users\l_pet\source\repos\RegEX\ContainsWord\obj\Debug\netcoreapp2.0\ContainsWord.pdb

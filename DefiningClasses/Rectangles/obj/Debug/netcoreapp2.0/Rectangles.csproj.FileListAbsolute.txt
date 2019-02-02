@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\bin\Debug\netcoreapp2.0\Rectangles.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\bin\Debug\netcoreapp2.0\Rectangles.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\bin\Debug\netcoreapp2.0\Rectangles.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\bin\Debug\netcoreapp2.0\Rectangles.dll
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\bin\Debug\netcoreapp2.0\Rectangles.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\obj\Debug\netcoreapp2.0\Rectangles.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\obj\Debug\netcoreapp2.0\Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\obj\Debug\netcoreapp2.0\Rectangles.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\obj\Debug\netcoreapp2.0\Rectangles.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\obj\Debug\netcoreapp2.0\Rectangles.dll
+C:\Users\l_pet\source\repos\DefiningClasses\Rectangles\obj\Debug\netcoreapp2.0\Rectangles.pdb

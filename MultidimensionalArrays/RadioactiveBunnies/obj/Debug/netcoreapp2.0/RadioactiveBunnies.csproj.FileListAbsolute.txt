@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\bin\Debug\netcoreapp2.0\RadioactiveBunnies.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\bin\Debug\netcoreapp2.0\RadioactiveBunnies.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\bin\Debug\netcoreapp2.0\RadioactiveBunnies.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\bin\Debug\netcoreapp2.0\RadioactiveBunnies.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\bin\Debug\netcoreapp2.0\RadioactiveBunnies.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\RadioactiveBunnies\obj\Debug\netcoreapp2.0\RadioactiveBunnies.pdb

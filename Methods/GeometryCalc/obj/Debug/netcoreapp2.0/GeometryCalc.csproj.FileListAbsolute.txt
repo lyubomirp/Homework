@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\bin\Debug\netcoreapp2.0\GeometryCalc.deps.json
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\bin\Debug\netcoreapp2.0\GeometryCalc.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\bin\Debug\netcoreapp2.0\GeometryCalc.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\bin\Debug\netcoreapp2.0\GeometryCalc.dll
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\bin\Debug\netcoreapp2.0\GeometryCalc.pdb
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\obj\Debug\netcoreapp2.0\GeometryCalc.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\obj\Debug\netcoreapp2.0\GeometryCalc.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\obj\Debug\netcoreapp2.0\GeometryCalc.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\obj\Debug\netcoreapp2.0\GeometryCalc.dll
+C:\Users\l_pet\source\repos\Methods\GeometryCalc\obj\Debug\netcoreapp2.0\GeometryCalc.pdb

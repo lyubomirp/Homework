@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\RegEX\CameraView\bin\Debug\netcoreapp2.0\CameraView.deps.json
+C:\Users\l_pet\source\repos\RegEX\CameraView\bin\Debug\netcoreapp2.0\CameraView.runtimeconfig.json
+C:\Users\l_pet\source\repos\RegEX\CameraView\bin\Debug\netcoreapp2.0\CameraView.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\RegEX\CameraView\bin\Debug\netcoreapp2.0\CameraView.dll
+C:\Users\l_pet\source\repos\RegEX\CameraView\bin\Debug\netcoreapp2.0\CameraView.pdb
+C:\Users\l_pet\source\repos\RegEX\CameraView\obj\Debug\netcoreapp2.0\CameraView.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\RegEX\CameraView\obj\Debug\netcoreapp2.0\CameraView.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\RegEX\CameraView\obj\Debug\netcoreapp2.0\CameraView.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\RegEX\CameraView\obj\Debug\netcoreapp2.0\CameraView.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\RegEX\CameraView\obj\Debug\netcoreapp2.0\CameraView.dll
+C:\Users\l_pet\source\repos\RegEX\CameraView\obj\Debug\netcoreapp2.0\CameraView.pdb

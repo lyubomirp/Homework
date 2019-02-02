@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.deps.json
+C:\Users\l_pet\source\repos\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.json
+C:\Users\l_pet\source\repos\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.dll
+C:\Users\l_pet\source\repos\DefiningClasses\Google\bin\Debug\netcoreapp2.0\Google.pdb
+C:\Users\l_pet\source\repos\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.dll
+C:\Users\l_pet\source\repos\DefiningClasses\Google\obj\Debug\netcoreapp2.0\Google.pdb

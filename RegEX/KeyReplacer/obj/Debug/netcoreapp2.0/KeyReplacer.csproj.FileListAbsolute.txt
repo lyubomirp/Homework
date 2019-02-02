@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.deps.json
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.runtimeconfig.json
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.dll
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\bin\Debug\netcoreapp2.0\KeyReplacer.pdb
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.dll
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.pdb
+C:\Users\l_pet\source\repos\RegEX\KeyReplacer\obj\Debug\netcoreapp2.0\KeyReplacer.csprojAssemblyReference.cache

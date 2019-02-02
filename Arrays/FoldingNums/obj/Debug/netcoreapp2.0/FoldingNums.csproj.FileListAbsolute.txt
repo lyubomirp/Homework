@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\bin\Debug\netcoreapp2.0\FoldingNums.deps.json
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\bin\Debug\netcoreapp2.0\FoldingNums.runtimeconfig.json
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\bin\Debug\netcoreapp2.0\FoldingNums.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\bin\Debug\netcoreapp2.0\FoldingNums.dll
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\bin\Debug\netcoreapp2.0\FoldingNums.pdb
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\obj\Debug\netcoreapp2.0\FoldingNums.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\obj\Debug\netcoreapp2.0\FoldingNums.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\obj\Debug\netcoreapp2.0\FoldingNums.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\obj\Debug\netcoreapp2.0\FoldingNums.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\obj\Debug\netcoreapp2.0\FoldingNums.dll
+C:\Users\l_pet\source\repos\Arrays\FoldingNums\obj\Debug\netcoreapp2.0\FoldingNums.pdb

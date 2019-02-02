@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\bin\Debug\netcoreapp2.0\HexadecToDec.deps.json
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\bin\Debug\netcoreapp2.0\HexadecToDec.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\bin\Debug\netcoreapp2.0\HexadecToDec.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\bin\Debug\netcoreapp2.0\HexadecToDec.dll
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\bin\Debug\netcoreapp2.0\HexadecToDec.pdb
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\obj\Debug\netcoreapp2.0\HexadecToDec.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\obj\Debug\netcoreapp2.0\HexadecToDec.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\obj\Debug\netcoreapp2.0\HexadecToDec.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\obj\Debug\netcoreapp2.0\HexadecToDec.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\obj\Debug\netcoreapp2.0\HexadecToDec.dll
+C:\Users\l_pet\source\repos\DataTypes\HexadecToDec\obj\Debug\netcoreapp2.0\HexadecToDec.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\bin\Debug\netcoreapp2.0\VLogger.deps.json
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\bin\Debug\netcoreapp2.0\VLogger.runtimeconfig.json
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\bin\Debug\netcoreapp2.0\VLogger.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\bin\Debug\netcoreapp2.0\VLogger.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\bin\Debug\netcoreapp2.0\VLogger.pdb
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\obj\Debug\netcoreapp2.0\VLogger.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\obj\Debug\netcoreapp2.0\VLogger.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\obj\Debug\netcoreapp2.0\VLogger.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\obj\Debug\netcoreapp2.0\VLogger.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\obj\Debug\netcoreapp2.0\VLogger.dll
+C:\Users\l_pet\source\repos\SetsAndDicts\VLogger\obj\Debug\netcoreapp2.0\VLogger.pdb

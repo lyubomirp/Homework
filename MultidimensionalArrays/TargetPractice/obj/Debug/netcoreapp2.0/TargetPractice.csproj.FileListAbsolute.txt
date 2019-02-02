@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.deps.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\bin\Debug\netcoreapp2.0\TargetPractice.pdb
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.dll
+C:\Users\l_pet\source\repos\MultidimensionalArrays\TargetPractice\obj\Debug\netcoreapp2.0\TargetPractice.pdb

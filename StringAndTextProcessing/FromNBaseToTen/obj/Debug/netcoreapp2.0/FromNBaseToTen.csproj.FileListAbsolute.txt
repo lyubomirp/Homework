@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\bin\Debug\netcoreapp2.0\FromNBaseToTen.deps.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\bin\Debug\netcoreapp2.0\FromNBaseToTen.runtimeconfig.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\bin\Debug\netcoreapp2.0\FromNBaseToTen.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\bin\Debug\netcoreapp2.0\FromNBaseToTen.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\bin\Debug\netcoreapp2.0\FromNBaseToTen.pdb
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\obj\Debug\netcoreapp2.0\FromNBaseToTen.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\obj\Debug\netcoreapp2.0\FromNBaseToTen.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\obj\Debug\netcoreapp2.0\FromNBaseToTen.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\obj\Debug\netcoreapp2.0\FromNBaseToTen.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\FromNBaseToTen\obj\Debug\netcoreapp2.0\FromNBaseToTen.pdb

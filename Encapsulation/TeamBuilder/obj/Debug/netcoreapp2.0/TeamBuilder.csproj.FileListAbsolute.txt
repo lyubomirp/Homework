@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\bin\Debug\netcoreapp2.0\TeamBuilder.deps.json
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\bin\Debug\netcoreapp2.0\TeamBuilder.runtimeconfig.json
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\bin\Debug\netcoreapp2.0\TeamBuilder.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\bin\Debug\netcoreapp2.0\TeamBuilder.dll
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\bin\Debug\netcoreapp2.0\TeamBuilder.pdb
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\obj\Debug\netcoreapp2.0\TeamBuilder.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\obj\Debug\netcoreapp2.0\TeamBuilder.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\obj\Debug\netcoreapp2.0\TeamBuilder.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\obj\Debug\netcoreapp2.0\TeamBuilder.dll
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\obj\Debug\netcoreapp2.0\TeamBuilder.pdb
+C:\Users\l_pet\source\repos\Encapsulation\TeamBuilder\obj\Debug\netcoreapp2.0\TeamBuilder.csprojAssemblyReference.cache

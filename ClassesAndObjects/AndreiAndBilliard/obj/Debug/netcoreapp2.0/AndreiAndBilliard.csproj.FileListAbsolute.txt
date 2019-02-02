@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\bin\Debug\netcoreapp2.0\AndreiAndBilliard.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\bin\Debug\netcoreapp2.0\AndreiAndBilliard.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\bin\Debug\netcoreapp2.0\AndreiAndBilliard.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\bin\Debug\netcoreapp2.0\AndreiAndBilliard.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\bin\Debug\netcoreapp2.0\AndreiAndBilliard.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\obj\Debug\netcoreapp2.0\AndreiAndBilliard.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\obj\Debug\netcoreapp2.0\AndreiAndBilliard.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\obj\Debug\netcoreapp2.0\AndreiAndBilliard.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\obj\Debug\netcoreapp2.0\AndreiAndBilliard.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\obj\Debug\netcoreapp2.0\AndreiAndBilliard.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\AndreiAndBilliard\obj\Debug\netcoreapp2.0\AndreiAndBilliard.pdb

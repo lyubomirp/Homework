@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\bin\Debug\netcoreapp2.0\Teams.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\bin\Debug\netcoreapp2.0\Teams.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\bin\Debug\netcoreapp2.0\Teams.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\bin\Debug\netcoreapp2.0\Teams.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\bin\Debug\netcoreapp2.0\Teams.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\obj\Debug\netcoreapp2.0\Teams.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\obj\Debug\netcoreapp2.0\Teams.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\obj\Debug\netcoreapp2.0\Teams.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\obj\Debug\netcoreapp2.0\Teams.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\obj\Debug\netcoreapp2.0\Teams.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\Teams\obj\Debug\netcoreapp2.0\Teams.pdb

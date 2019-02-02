@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.deps.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.dll
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\bin\Debug\netcoreapp2.1\StrategyPattern.pdb
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.dll
+C:\Users\l_pet\source\repos\IteratorsAndComparators\StrategyPattern\obj\Debug\netcoreapp2.1\StrategyPattern.pdb

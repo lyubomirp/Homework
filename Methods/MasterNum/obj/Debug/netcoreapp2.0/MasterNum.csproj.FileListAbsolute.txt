@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Methods\MasterNum\bin\Debug\netcoreapp2.0\MasterNum.deps.json
+C:\Users\l_pet\source\repos\Methods\MasterNum\bin\Debug\netcoreapp2.0\MasterNum.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\MasterNum\bin\Debug\netcoreapp2.0\MasterNum.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\MasterNum\bin\Debug\netcoreapp2.0\MasterNum.dll
+C:\Users\l_pet\source\repos\Methods\MasterNum\bin\Debug\netcoreapp2.0\MasterNum.pdb
+C:\Users\l_pet\source\repos\Methods\MasterNum\obj\Debug\netcoreapp2.0\MasterNum.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\MasterNum\obj\Debug\netcoreapp2.0\MasterNum.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\MasterNum\obj\Debug\netcoreapp2.0\MasterNum.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\MasterNum\obj\Debug\netcoreapp2.0\MasterNum.dll
+C:\Users\l_pet\source\repos\Methods\MasterNum\obj\Debug\netcoreapp2.0\MasterNum.pdb
+C:\Users\l_pet\source\repos\Methods\MasterNum\obj\Debug\netcoreapp2.0\MasterNum.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\bin\Debug\netcoreapp2.0\MultiplyLargeNums.deps.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\bin\Debug\netcoreapp2.0\MultiplyLargeNums.runtimeconfig.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\bin\Debug\netcoreapp2.0\MultiplyLargeNums.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\bin\Debug\netcoreapp2.0\MultiplyLargeNums.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\bin\Debug\netcoreapp2.0\MultiplyLargeNums.pdb
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\obj\Debug\netcoreapp2.0\MultiplyLargeNums.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\obj\Debug\netcoreapp2.0\MultiplyLargeNums.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\obj\Debug\netcoreapp2.0\MultiplyLargeNums.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\obj\Debug\netcoreapp2.0\MultiplyLargeNums.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\MultiplyLargeNums\obj\Debug\netcoreapp2.0\MultiplyLargeNums.pdb

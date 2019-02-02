@@ -1,0 +1,17 @@
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\DatabaseTest.deps.json
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\DatabaseTest.dll
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\DatabaseTest.runtimeconfig.json
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\DatabaseTest.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\DatabaseTest.pdb
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\UnitTesting.dll
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\bin\Debug\netcoreapp2.1\UnitTesting.pdb
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.csproj.CopyComplete
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.dll
+C:\Users\l_pet\source\repos\UnitTesting\DatabaseTest\obj\Debug\netcoreapp2.1\DatabaseTest.pdb

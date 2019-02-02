@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\bin\Debug\netcoreapp2.0\AdvertismentMessage.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\bin\Debug\netcoreapp2.0\AdvertismentMessage.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\bin\Debug\netcoreapp2.0\AdvertismentMessage.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\bin\Debug\netcoreapp2.0\AdvertismentMessage.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\bin\Debug\netcoreapp2.0\AdvertismentMessage.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\obj\Debug\netcoreapp2.0\AdvertismentMessage.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\obj\Debug\netcoreapp2.0\AdvertismentMessage.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\obj\Debug\netcoreapp2.0\AdvertismentMessage.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\obj\Debug\netcoreapp2.0\AdvertismentMessage.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\AdvertismentMessage\obj\Debug\netcoreapp2.0\AdvertismentMessage.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\bin\Debug\netcoreapp2.0\FibonacciNum.deps.json
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\bin\Debug\netcoreapp2.0\FibonacciNum.runtimeconfig.json
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\bin\Debug\netcoreapp2.0\FibonacciNum.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\bin\Debug\netcoreapp2.0\FibonacciNum.dll
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\bin\Debug\netcoreapp2.0\FibonacciNum.pdb
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\obj\Debug\netcoreapp2.0\FibonacciNum.csprojResolveAssemblyReference.cache
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\obj\Debug\netcoreapp2.0\FibonacciNum.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\obj\Debug\netcoreapp2.0\FibonacciNum.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\obj\Debug\netcoreapp2.0\FibonacciNum.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\obj\Debug\netcoreapp2.0\FibonacciNum.dll
+C:\Users\l_pet\source\repos\Methods\FibonacciNum\obj\Debug\netcoreapp2.0\FibonacciNum.pdb

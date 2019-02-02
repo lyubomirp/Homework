@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\bin\Debug\netcoreapp2.0\BooleanVar.deps.json
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\bin\Debug\netcoreapp2.0\BooleanVar.runtimeconfig.json
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\bin\Debug\netcoreapp2.0\BooleanVar.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\bin\Debug\netcoreapp2.0\BooleanVar.dll
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\bin\Debug\netcoreapp2.0\BooleanVar.pdb
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\obj\Debug\netcoreapp2.0\BooleanVar.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\obj\Debug\netcoreapp2.0\BooleanVar.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\obj\Debug\netcoreapp2.0\BooleanVar.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\obj\Debug\netcoreapp2.0\BooleanVar.dll
+C:\Users\l_pet\source\repos\DataTypes\BooleanVar\obj\Debug\netcoreapp2.0\BooleanVar.pdb

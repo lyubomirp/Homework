@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\obj\Debug\netcoreapp2.0\MinerTask.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\obj\Debug\netcoreapp2.0\MinerTask.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\obj\Debug\netcoreapp2.0\MinerTask.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\obj\Debug\netcoreapp2.0\MinerTask.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\bin\Debug\netcoreapp2.0\MinerTask.deps.json
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\bin\Debug\netcoreapp2.0\MinerTask.runtimeconfig.json
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\bin\Debug\netcoreapp2.0\MinerTask.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\bin\Debug\netcoreapp2.0\MinerTask.dll
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\bin\Debug\netcoreapp2.0\MinerTask.pdb
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\obj\Debug\netcoreapp2.0\MinerTask.dll
+C:\Users\l_pet\source\repos\Dictionary\MinerTask\obj\Debug\netcoreapp2.0\MinerTask.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.deps.json
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.runtimeconfig.json
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.dll
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\bin\Debug\netcoreapp2.0\PizzaCalories.pdb
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.dll
+C:\Users\l_pet\source\repos\Encapsulation\PizzaCalories\obj\Debug\netcoreapp2.0\PizzaCalories.pdb

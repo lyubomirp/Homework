@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\bin\Debug\netcoreapp2.0\AddLargeNumbers.deps.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\bin\Debug\netcoreapp2.0\AddLargeNumbers.runtimeconfig.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\bin\Debug\netcoreapp2.0\AddLargeNumbers.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\bin\Debug\netcoreapp2.0\AddLargeNumbers.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\bin\Debug\netcoreapp2.0\AddLargeNumbers.pdb
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\obj\Debug\netcoreapp2.0\AddLargeNumbers.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\obj\Debug\netcoreapp2.0\AddLargeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\obj\Debug\netcoreapp2.0\AddLargeNumbers.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\obj\Debug\netcoreapp2.0\AddLargeNumbers.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\obj\Debug\netcoreapp2.0\AddLargeNumbers.dll
+C:\Users\l_pet\source\repos\StringAndTextProcessing\AddLargeNumbers\obj\Debug\netcoreapp2.0\AddLargeNumbers.pdb

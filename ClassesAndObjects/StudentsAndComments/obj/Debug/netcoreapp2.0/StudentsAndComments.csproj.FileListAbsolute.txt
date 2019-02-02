@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\bin\Debug\netcoreapp2.0\StudentsAndComments.deps.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\bin\Debug\netcoreapp2.0\StudentsAndComments.runtimeconfig.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\bin\Debug\netcoreapp2.0\StudentsAndComments.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\bin\Debug\netcoreapp2.0\StudentsAndComments.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\bin\Debug\netcoreapp2.0\StudentsAndComments.pdb
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\obj\Debug\netcoreapp2.0\StudentsAndComments.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\obj\Debug\netcoreapp2.0\StudentsAndComments.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\obj\Debug\netcoreapp2.0\StudentsAndComments.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\obj\Debug\netcoreapp2.0\StudentsAndComments.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\obj\Debug\netcoreapp2.0\StudentsAndComments.dll
+C:\Users\l_pet\source\repos\ClassesAndObjects\StudentsAndComments\obj\Debug\netcoreapp2.0\StudentsAndComments.pdb
