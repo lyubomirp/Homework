@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\bin\Debug\netcoreapp2.0\Miner.deps.json
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\bin\Debug\netcoreapp2.0\Miner.runtimeconfig.json
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\bin\Debug\netcoreapp2.0\Miner.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\bin\Debug\netcoreapp2.0\Miner.dll
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\bin\Debug\netcoreapp2.0\Miner.pdb
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\obj\Debug\netcoreapp2.0\Miner.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\obj\Debug\netcoreapp2.0\Miner.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\obj\Debug\netcoreapp2.0\Miner.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\obj\Debug\netcoreapp2.0\Miner.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\obj\Debug\netcoreapp2.0\Miner.dll
+C:\Users\l_pet\source\repos\ExamAdvanced\Miner\obj\Debug\netcoreapp2.0\Miner.pdb

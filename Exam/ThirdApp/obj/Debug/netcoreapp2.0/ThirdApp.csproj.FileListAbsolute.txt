@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Exam\ThirdApp\bin\Debug\netcoreapp2.0\ThirdApp.deps.json
+C:\Users\l_pet\source\repos\Exam\ThirdApp\bin\Debug\netcoreapp2.0\ThirdApp.runtimeconfig.json
+C:\Users\l_pet\source\repos\Exam\ThirdApp\bin\Debug\netcoreapp2.0\ThirdApp.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Exam\ThirdApp\bin\Debug\netcoreapp2.0\ThirdApp.dll
+C:\Users\l_pet\source\repos\Exam\ThirdApp\bin\Debug\netcoreapp2.0\ThirdApp.pdb
+C:\Users\l_pet\source\repos\Exam\ThirdApp\obj\Debug\netcoreapp2.0\ThirdApp.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\Exam\ThirdApp\obj\Debug\netcoreapp2.0\ThirdApp.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Exam\ThirdApp\obj\Debug\netcoreapp2.0\ThirdApp.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Exam\ThirdApp\obj\Debug\netcoreapp2.0\ThirdApp.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Exam\ThirdApp\obj\Debug\netcoreapp2.0\ThirdApp.dll
+C:\Users\l_pet\source\repos\Exam\ThirdApp\obj\Debug\netcoreapp2.0\ThirdApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\bin\Debug\netcoreapp2.0\CoursePlanning.deps.json
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\bin\Debug\netcoreapp2.0\CoursePlanning.runtimeconfig.json
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\bin\Debug\netcoreapp2.0\CoursePlanning.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\bin\Debug\netcoreapp2.0\CoursePlanning.dll
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\bin\Debug\netcoreapp2.0\CoursePlanning.pdb
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\obj\Debug\netcoreapp2.0\CoursePlanning.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\obj\Debug\netcoreapp2.0\CoursePlanning.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\obj\Debug\netcoreapp2.0\CoursePlanning.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\obj\Debug\netcoreapp2.0\CoursePlanning.dll
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\obj\Debug\netcoreapp2.0\CoursePlanning.pdb
+C:\Users\l_pet\source\repos\Exam\CoursePlanning\obj\Debug\netcoreapp2.0\CoursePlanning.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\netcoreapp2.0\ExamAdvanced.deps.json
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\netcoreapp2.0\ExamAdvanced.runtimeconfig.json
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\netcoreapp2.0\ExamAdvanced.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\netcoreapp2.0\ExamAdvanced.dll
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\netcoreapp2.0\ExamAdvanced.pdb
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\netcoreapp2.0\ExamAdvanced.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\netcoreapp2.0\ExamAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\netcoreapp2.0\ExamAdvanced.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\netcoreapp2.0\ExamAdvanced.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\netcoreapp2.0\ExamAdvanced.dll
+C:\Users\l_pet\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\netcoreapp2.0\ExamAdvanced.pdb

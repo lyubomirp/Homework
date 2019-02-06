@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ExamPrep\MemView\bin\Debug\netcoreapp2.0\MemView.deps.json
+C:\Users\l_pet\source\repos\ExamPrep\MemView\bin\Debug\netcoreapp2.0\MemView.runtimeconfig.json
+C:\Users\l_pet\source\repos\ExamPrep\MemView\bin\Debug\netcoreapp2.0\MemView.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ExamPrep\MemView\bin\Debug\netcoreapp2.0\MemView.dll
+C:\Users\l_pet\source\repos\ExamPrep\MemView\bin\Debug\netcoreapp2.0\MemView.pdb
+C:\Users\l_pet\source\repos\ExamPrep\MemView\obj\Debug\netcoreapp2.0\MemView.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ExamPrep\MemView\obj\Debug\netcoreapp2.0\MemView.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ExamPrep\MemView\obj\Debug\netcoreapp2.0\MemView.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ExamPrep\MemView\obj\Debug\netcoreapp2.0\MemView.dll
+C:\Users\l_pet\source\repos\ExamPrep\MemView\obj\Debug\netcoreapp2.0\MemView.pdb
+C:\Users\l_pet\source\repos\ExamPrep\MemView\obj\Debug\netcoreapp2.0\MemView.csprojAssemblyReference.cache

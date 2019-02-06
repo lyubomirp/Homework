@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.deps.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.runtimeconfig.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.dll
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\bin\Debug\netcoreapp2.0\EvenOrOdd.pdb
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.dll
+C:\Users\l_pet\source\repos\FunctionalProgramming\EvenOrOdd\obj\Debug\netcoreapp2.0\EvenOrOdd.pdb

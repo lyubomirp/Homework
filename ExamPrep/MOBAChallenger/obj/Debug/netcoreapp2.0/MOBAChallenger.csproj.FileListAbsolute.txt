@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\bin\Debug\netcoreapp2.0\MOBAChallenger.deps.json
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\bin\Debug\netcoreapp2.0\MOBAChallenger.runtimeconfig.json
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\bin\Debug\netcoreapp2.0\MOBAChallenger.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\bin\Debug\netcoreapp2.0\MOBAChallenger.dll
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\bin\Debug\netcoreapp2.0\MOBAChallenger.pdb
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\obj\Debug\netcoreapp2.0\MOBAChallenger.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\obj\Debug\netcoreapp2.0\MOBAChallenger.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\obj\Debug\netcoreapp2.0\MOBAChallenger.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\obj\Debug\netcoreapp2.0\MOBAChallenger.dll
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\obj\Debug\netcoreapp2.0\MOBAChallenger.pdb
+C:\Users\l_pet\source\repos\ExamPrep\MOBAChallenger\obj\Debug\netcoreapp2.0\MOBAChallenger.csprojAssemblyReference.cache

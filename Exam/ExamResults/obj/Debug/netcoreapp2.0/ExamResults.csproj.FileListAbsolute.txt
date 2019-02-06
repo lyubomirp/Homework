@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\Exam\ExamResults\bin\Debug\netcoreapp2.0\ExamResults.deps.json
+C:\Users\l_pet\source\repos\Exam\ExamResults\bin\Debug\netcoreapp2.0\ExamResults.runtimeconfig.json
+C:\Users\l_pet\source\repos\Exam\ExamResults\bin\Debug\netcoreapp2.0\ExamResults.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\Exam\ExamResults\bin\Debug\netcoreapp2.0\ExamResults.dll
+C:\Users\l_pet\source\repos\Exam\ExamResults\bin\Debug\netcoreapp2.0\ExamResults.pdb
+C:\Users\l_pet\source\repos\Exam\ExamResults\obj\Debug\netcoreapp2.0\ExamResults.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\Exam\ExamResults\obj\Debug\netcoreapp2.0\ExamResults.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\Exam\ExamResults\obj\Debug\netcoreapp2.0\ExamResults.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\Exam\ExamResults\obj\Debug\netcoreapp2.0\ExamResults.dll
+C:\Users\l_pet\source\repos\Exam\ExamResults\obj\Debug\netcoreapp2.0\ExamResults.pdb

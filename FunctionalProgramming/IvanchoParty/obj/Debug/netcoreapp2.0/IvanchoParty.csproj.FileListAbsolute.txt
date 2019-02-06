@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\bin\Debug\netcoreapp2.0\IvanchoParty.deps.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\bin\Debug\netcoreapp2.0\IvanchoParty.runtimeconfig.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\bin\Debug\netcoreapp2.0\IvanchoParty.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\bin\Debug\netcoreapp2.0\IvanchoParty.dll
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\bin\Debug\netcoreapp2.0\IvanchoParty.pdb
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\obj\Debug\netcoreapp2.0\IvanchoParty.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\obj\Debug\netcoreapp2.0\IvanchoParty.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\obj\Debug\netcoreapp2.0\IvanchoParty.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\obj\Debug\netcoreapp2.0\IvanchoParty.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\obj\Debug\netcoreapp2.0\IvanchoParty.dll
+C:\Users\l_pet\source\repos\FunctionalProgramming\IvanchoParty\obj\Debug\netcoreapp2.0\IvanchoParty.pdb

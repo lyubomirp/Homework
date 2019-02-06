@@ -1,0 +1,11 @@
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\bin\Debug\netcoreapp2.0\Messages.deps.json
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\bin\Debug\netcoreapp2.0\Messages.runtimeconfig.json
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\bin\Debug\netcoreapp2.0\Messages.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\bin\Debug\netcoreapp2.0\Messages.dll
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\bin\Debug\netcoreapp2.0\Messages.pdb
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\obj\Debug\netcoreapp2.0\Messages.csprojAssemblyReference.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\obj\Debug\netcoreapp2.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\obj\Debug\netcoreapp2.0\Messages.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\obj\Debug\netcoreapp2.0\Messages.dll
+C:\Users\l_pet\source\repos\ExamAdvanced\Messages\obj\Debug\netcoreapp2.0\Messages.pdb

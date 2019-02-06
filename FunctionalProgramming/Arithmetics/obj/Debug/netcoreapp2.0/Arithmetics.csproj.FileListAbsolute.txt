@@ -1,0 +1,10 @@
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\bin\Debug\netcoreapp2.0\Arithmetics.deps.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\bin\Debug\netcoreapp2.0\Arithmetics.runtimeconfig.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\bin\Debug\netcoreapp2.0\Arithmetics.runtimeconfig.dev.json
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\bin\Debug\netcoreapp2.0\Arithmetics.dll
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\bin\Debug\netcoreapp2.0\Arithmetics.pdb
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\obj\Debug\netcoreapp2.0\Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\obj\Debug\netcoreapp2.0\Arithmetics.AssemblyInfoInputs.cache
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\obj\Debug\netcoreapp2.0\Arithmetics.AssemblyInfo.cs
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\obj\Debug\netcoreapp2.0\Arithmetics.dll
+C:\Users\l_pet\source\repos\FunctionalProgramming\Arithmetics\obj\Debug\netcoreapp2.0\Arithmetics.pdb
